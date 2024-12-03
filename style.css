@@ -76,10 +76,10 @@ li{
     align-self: center;
     justify-content: center;
     display: flex;
-    width: 100%;
-    height: auto;
+    width: 640;
+    height: 480;
     max-width: 90%;
-    height: auto;
+    
 
 }
 
