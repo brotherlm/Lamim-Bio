@@ -12,7 +12,7 @@ body{
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 420px) {
     
 
 h1{
@@ -93,7 +93,7 @@ li{
 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 420px) {
 
     h1{
 
@@ -172,7 +172,7 @@ li{
 
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+@media only screen and (max-width: 420px) {
 
 
 
@@ -257,7 +257,7 @@ li{
 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 420px) {
 
 
 
@@ -270,6 +270,7 @@ li{
         text-align: center;
         align-self: center;
         justify-content: center;
+        background-color: center;
         
         }
         
@@ -335,11 +336,20 @@ li{
 
 
 
+.biography{
+    background-color: rgb(1, 50, 50);
+    font-size: large;
+}
+
 
 
 
 
 }
+
+
+
+
 
 
 
